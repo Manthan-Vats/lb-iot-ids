@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/iot23/
+data/nbaiot_raw/
+manuscript/
